@@ -1,0 +1,67 @@
+.container1 {
+    background: lightgray;
+    color: white;
+    border-radius: 40px;
+    padding: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+.password {
+    text-align: center;
+    padding: 50px;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    text-align: justify;
+    width: 100%;
+    border: dashed 1px;
+    color: rgb(85, 178, 194)
+}
+hr {
+    color: rgb(186, 227, 250);
+    padding: 10px;
+}
+
+.button-container {
+text-align: center;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+h1 {
+    color: black;
+}
+h2 {
+    color: black;
+    text-align: left;
+}
+
+button {
+    border-radius: 28px;
+    border: 1px solid;
+    display: inline-block;
+}
+
+#generate {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: red;
+    margin-right: 60px;
+
+}
+
+#copy {
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    border: gray;
+}
